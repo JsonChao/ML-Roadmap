@@ -1,12 +1,8 @@
 # ML-Roadmap
 Roadmap to becoming a Machine Learning developer in 2018
 
+![image](http://note.youdao.com/favicon.ico)
 
-
-
-机器学习和人工智能
-
-机器学习分为监督式学习和非监督式学习
 
 ## 入门
 
@@ -34,6 +30,8 @@ https://github.com/nborwankar/LearnDataScience
 
 [吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
 [中文版](http://open.163.com/special/opencourse/machinelearning.html)
+
+[Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
 
 [卡内基梅隆大学](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
@@ -113,6 +111,8 @@ https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 [算法](https://medium.com/machine-learning-101)
 
 [机器学习](https://medium.com/machine-learning-for-humans)
+
+[Python入门深度学习完整指南](https://juejin.im/post/5a4666b6f265da4327188f2c)
 
 [最佳实践](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
@@ -206,3 +206,25 @@ https://github.com/ChristosChristofidis/awesome-deep-learning
 https://github.com/terryum/awesome-deep-learning-papers
 
 https://github.com/endymecy/awesome-deeplearning-resources
+
+### About me
+
+- #### Email:[chao.qu521@gmail.com]()
+- #### Blog:[https://jsonchao.github.io/](https://jsonchao.github.io/)
+- #### 掘金:[https://juejin.im/user/5a3ba9375188252bca050ade](https://juejin.im/user/5a3ba9375188252bca050ade)
+    
+### License
+
+Copyright 2018 JsonChao
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
