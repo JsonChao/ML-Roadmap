@@ -9,22 +9,23 @@ Roadmap to becoming a Machine Learning developer in 2018
 ## 入门
 
 [Machine learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-[中文版](https://zhuanlan.zhihu.com/p/24339995)
+（[中文版](https://zhuanlan.zhihu.com/p/24339995)）
 
 [数据科学基础](https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308)
 
 ## 数据分析
 
-概念：
+### 概念：
 
-http://data8.org/
+[The Foundations of Data Science](http://data8.org/)
 
-https://www.inferentialthinking.com/
+[Computational and Inferential Thinking -The Foundations of Data Science](https://www.inferentialthinking.com/)
 
-数据挖掘算法：
 
-https://github.com/nborwankar/LearnDataScience
-[算法实现](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn)
+### 数据挖掘算法：
+
+[LearnDataScience](https://github.com/nborwankar/LearnDataScience)
+（[算法实现](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn)）
 
 [资源列表](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources)
 
@@ -45,11 +46,11 @@ https://github.com/nborwankar/LearnDataScience
 
 ## 数据学习
 
-http://work.caltech.edu/lectures.html
+[Learning From Data](http://work.caltech.edu/lectures.html)
 
 ## 神经网络
 
-https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+[Youtube-Neural Networks](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 ## 大学课程
 
@@ -73,25 +74,26 @@ https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 ### 更多课程
 
-https://github.com/RatulGhosh/awesome-machine-learning
+[awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning)
 
 ## 图书
 
 ### 机器学习
 
-https://book.douban.com/subject/2061116/
+[Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
 [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 [Matlab实现](https://github.com/PRML/PRMLT)
 
-[Scikit-Learn](https://book.douban.com/subject/26279609/)
+[Introduction to Machine Learning with Python](https://book.douban.com/subject/26279609/)
 
-[TensorFlow](https://book.douban.com/subject/26840215/)
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://book.douban.com/subject/26840215/)
 
-手册：
+### 手册：
 
-https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+[understanding-machine-learning-theory-algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
-https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+[ESLII](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
 
 ### 深度学习
 
@@ -118,11 +120,11 @@ https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
 [最佳实践](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
-博客：
+## 博客
 
-https://machinelearningmastery.com/blog/
+[machinelearningmastery](https://machinelearningmastery.com/blog/)
 
-http://iamtrask.github.io/
+[iamtrask](http://iamtrask.github.io/)
 
 [深度学习](http://www.deeplearningbook.org/)
 
@@ -134,15 +136,15 @@ http://iamtrask.github.io/
 
 [神经网络](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+[rnn-effectiveness](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+[NN-Manifolds-Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-http://distill.pub/2016/augmented-rnns/
+[augmented-rnns](http://distill.pub/2016/augmented-rnns/)
 
-http://benanne.github.io/2014/08/05/spotify-cnns.html
+[spotify-cnns](phttp://benanne.github.io/2014/08/05/spotify-cnns.html)
 
 ## 算法
 
@@ -164,12 +166,19 @@ http://benanne.github.io/2014/08/05/spotify-cnns.html
 
 [聚类算法](https://en.wikipedia.org/wiki/Cluster_analysis)
 
-5个著名的聚类算法：
+### 5个著名的聚类算法：
+
 [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+
 [Mean-Shift](https://en.wikipedia.org/wiki/Mean_shift)
+
 [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
+
 [EM/GMM](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+
 [Agglomerative Hierarchical](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+
+### 其它
 
 [主成分分析](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
@@ -179,21 +188,21 @@ http://benanne.github.io/2014/08/05/spotify-cnns.html
 
 ### 更多算法列表
 
-https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms
+[Machine learning algorithms](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 
-https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+[a-tour-of-machine-learning-algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ### Scikit-Learn算法文档
 
-http://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+[supervised_learning](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
-http://scikit-learn.org/stable/modules/clustering.html#clustering
+[clustering](http://scikit-learn.org/stable/modules/clustering.html#clustering)
 
-http://scikit-learn.org/stable/modules/decomposition.html#decompositions
+[decomposition](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)
 
-http://scikit-learn.org/stable/model_selection.html#model-selection
+[model_selection](http://scikit-learn.org/stable/model_selection.html#model-selection)
 
-http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
+[preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
 
 ## 实践项目
 
@@ -203,11 +212,12 @@ http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
 
 ## 更多进阶资源
 
-https://github.com/ChristosChristofidis/awesome-deep-learning
+[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-https://github.com/terryum/awesome-deep-learning-papers
+[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
-https://github.com/endymecy/awesome-deeplearning-resources
+[awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+
 
 ### About me
 
