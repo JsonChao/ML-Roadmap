@@ -5,6 +5,9 @@ Roadmap to becoming a Machine Learning developer in 2018
 <img src="https://github.com/JsonChao/ML-Roadmap/blob/master/Screenshot/20180115161718.png">
 </div>
 
+## Translations
+
+- [简体中文](https://github.com/JsonChao/ML-Roadmap/blob/master/README-CN.md)
 
 ## Introduction
 
