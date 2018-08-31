@@ -54,7 +54,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 ## 大学课程
 
-### 斯坦福大学
+### 斯坦福大学：
 
 [《统计学学习》](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 
@@ -64,7 +64,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [《深度学习之自然语言处理》](http://cs224d.stanford.edu/)
 
-### 麻省理工大学
+### 麻省理工大学：
 
 [《神经网络介绍》](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm)
 
@@ -72,13 +72,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [《预测》](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/index.htm)
 
-### 更多课程
+### 更多课程：
 
 [awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning)
 
 ## 图书
 
-### 机器学习
+### 机器学习：
 
 [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
 [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -95,13 +95,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 [ESLII](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 
-### 深度学习
+### 深度学习：
 
 [《深度学习》](https://book.douban.com/subject/27087503/)
 [官网](http://www.deeplearningbook.org/)
 [中文](https://github.com/exacity/deeplearningbook-chinese)
 
-### 神经网络
+### 神经网络：
 
 [入门书](http://neuralnetworksanddeeplearning.com/)
 [中文](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)
@@ -132,7 +132,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [教程列表](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-### 神经网络
+### 神经网络：
 
 [神经网络](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
@@ -148,7 +148,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 ## 算法
 
-### 监督式学习
+### 监督式学习：
 
 [决策树](https://en.wikipedia.org/wiki/Decision_tree)
 
@@ -178,7 +178,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [Agglomerative Hierarchical](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 
-### 其它
+### 其它：
 
 [主成分分析](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
@@ -186,13 +186,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [独立成分分析](https://en.wikipedia.org/wiki/Independent_component_analysis)
 
-### 更多算法列表
+### 更多算法列表：
 
 [Machine learning algorithms](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 
 [a-tour-of-machine-learning-algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-### Scikit-Learn算法文档
+### Scikit-Learn算法文档：
 
 [supervised_learning](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
