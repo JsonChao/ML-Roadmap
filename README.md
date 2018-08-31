@@ -50,7 +50,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 ## University Course
 
-### Stanford University
+### Stanford University：
 
 [《Statistical Learning》](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 
@@ -60,7 +60,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [《Deep Leanring for Natural Language Processing》](http://cs224d.stanford.edu/)
 
-### MIT University
+### MIT University：
 
 [《Introduction to neural networks》](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm)
 
@@ -68,13 +68,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [《Prediction》](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/index.htm)
 
-### More Courses
+### More Courses：
 
 [awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning)
 
 ## Books
 
-### Machine Learning
+### Machine Learning：
 
 [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
 [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -90,13 +90,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [ESLII](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
-### Deep Learning
+### Deep Learning：
 
 [《Deep Learning》](https://book.douban.com/subject/27087503/)
 
 [Official website](http://www.deeplearningbook.org/)
 
-### Neural Networks
+### Neural Networks：
 
 [Introduction-Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
@@ -114,7 +114,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 [Rules of Machine Learning:
 Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
-Blogs：
+### Blogs：
 
 [machinelearningmastery](https://machinelearningmastery.com/blog/)
 
@@ -126,7 +126,7 @@ Blogs：
 
 [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
     
-### Neural Networks
+### Neural Networks：
 
 [Youtube-Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
@@ -142,7 +142,7 @@ Blogs：
 
 ## Algorithms
 
-### Supervised Learning
+### Supervised Learning：
 
 [Decision_tree](https://en.wikipedia.org/wiki/Decision_tree)
 
@@ -156,7 +156,7 @@ Blogs：
 
 [Ensemble_learning](https://en.wikipedia.org/wiki/Ensemble_learning)
 
-### Unsupervised Learning
+### Unsupervised Learning：
 
 [Cluster_analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
 
@@ -172,7 +172,7 @@ Blogs：
 
 [Agglomerative Hierarchical](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 
-### Others
+### Others：
 
 [Principal_component_analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
@@ -180,13 +180,13 @@ Blogs：
 
 [Independent_component_analysis](https://en.wikipedia.org/wiki/Independent_component_analysis)
 
-### More Algorithm Lists
+### More Algorithm Lists：
 
 [Machine learning algorithms](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 
 [a-tour-of-machine-learning-algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-### Scikit-Learn Algorithm for document
+### Scikit-Learn Algorithm for document：
 
 [supervised_learning](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
