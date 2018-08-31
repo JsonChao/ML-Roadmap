@@ -141,7 +141,7 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 
 [augmented-rnns](http://distill.pub/2016/augmented-rnns/)
 
-[spotify-cnns](phttp://benanne.github.io/2014/08/05/spotify-cnns.html)
+[spotify-cnns](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 
 ## Algorithms
 
