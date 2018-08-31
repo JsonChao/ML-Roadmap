@@ -6,135 +6,129 @@ Roadmap to becoming a Machine Learning developer in 2018
 </div>
 
 
-## 入门
+## Introduction
 
 [Machine learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-（[中文版](https://zhuanlan.zhihu.com/p/24339995)）
 
-[数据科学基础](https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308)
 
-## 数据分析
+[Data Science Simplified](https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308)
 
-### 概念：
+## Data Analysis
+
+### Concepts：
 
 [The Foundations of Data Science](http://data8.org/)
 
 [Computational and Inferential Thinking -The Foundations of Data Science](https://www.inferentialthinking.com/)
 
-
-### 数据挖掘算法：
+### Data Mining Algorithm：
 
 [LearnDataScience](https://github.com/nborwankar/LearnDataScience)
-（[算法实现](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn)）
+[Algorithm Implementation](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn)
 
-[资源列表](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources)
+[Data-science-resources](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources)
 
-## 机器学习
+## Machine Learning
 
-[吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
-[中文版](http://open.163.com/special/opencourse/machinelearning.html)
+[Andrew Ng-Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-[Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
+[Google-Machine Learning Crash Course](https://developers.google.cn/machine-learning/crash-course/)
 
-[卡内基梅隆大学](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+[Carnegie Mellon University-Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
-## 深度学习
+## Deep Learning
 
-[吴恩达深度学习](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+[Udacity-Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
-[谷歌深度学习](https://www.udacity.com/course/deep-learning--ud730)
-
-## 数据学习
+## Learning From Data
 
 [Learning From Data](http://work.caltech.edu/lectures.html)
 
-## 神经网络
+## Neural Networks
 
 [Youtube-Neural Networks](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
-## 大学课程
+## University Course
 
-### 斯坦福大学
+### Stanford University
 
-[《统计学学习》](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+[《Statistical Learning》](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 
-[《机器学习》](http://cs229.stanford.edu/)
+[《Machine Learning》](http://cs229.stanford.edu/)
 
-[《卷积神经网络》](http://cs231n.stanford.edu/)
+[《Convolutional Neural Networks》](http://cs231n.stanford.edu/)
 
-[《深度学习之自然语言处理》](http://cs224d.stanford.edu/)
+[《Deep Leanring for Natural Language Processing》](http://cs224d.stanford.edu/)
 
-### 麻省理工大学
+### MIT University
 
-[《神经网络介绍》](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm)
+[《Introduction to neural networks》](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm)
 
-[《机器学习》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+[《Machine Learning》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
 
-[《预测》](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/index.htm)
+[《Prediction》](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/index.htm)
 
-### 更多课程
+### More Courses
 
 [awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning)
 
-## 图书
+## Books
 
-### 机器学习
+### Machine Learning
 
 [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
 [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-[Matlab实现](https://github.com/PRML/PRMLT)
+[Matlab Implementation](https://github.com/PRML/PRMLT)
 
 [Introduction to Machine Learning with Python](https://book.douban.com/subject/26279609/)
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://book.douban.com/subject/26840215/)
 
-### 手册：
+### Manual：
 
 [understanding-machine-learning-theory-algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 [ESLII](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+### Deep Learning
 
-### 深度学习
+[《Deep Learning》](https://book.douban.com/subject/27087503/)
 
-[《深度学习》](https://book.douban.com/subject/27087503/)
-[官网](http://www.deeplearningbook.org/)
-[中文](https://github.com/exacity/deeplearningbook-chinese)
+[Official website](http://www.deeplearningbook.org/)
 
-### 神经网络
+### Neural Networks
 
-[入门书](http://neuralnetworksanddeeplearning.com/)
-[中文](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)
+[Introduction-Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-## 文章/小视频
+
+## Articles/Small Videos
 
 [Google TensorFlow](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
-[Python Machine](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+[Machine-learning-tutorial-python-introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 
-[算法](https://medium.com/machine-learning-101)
+[machine-learning-algorithm](https://medium.com/machine-learning-101)
 
-[机器学习](https://medium.com/machine-learning-for-humans)
+[machine-learning-for-humans](https://medium.com/machine-learning-for-humans)
 
-[Python入门深度学习完整指南](https://juejin.im/post/5a4666b6f265da4327188f2c)
+[Rules of Machine Learning:
+Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
-[最佳实践](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-
-## 博客
+Blogs：
 
 [machinelearningmastery](https://machinelearningmastery.com/blog/)
 
 [iamtrask](http://iamtrask.github.io/)
 
-[深度学习](http://www.deeplearningbook.org/)
+[Deeplearningbook](http://www.deeplearningbook.org/)
 
-[Python自然语言处理](http://www.nltk.org/book/)
+[Natural Language Processing with Python](http://www.nltk.org/book/)
 
-[教程列表](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+    
+### Neural Networks
 
-### 神经网络
-
-[神经网络](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[Youtube-Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 [rnn-effectiveness](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
@@ -146,27 +140,27 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [spotify-cnns](phttp://benanne.github.io/2014/08/05/spotify-cnns.html)
 
-## 算法
+## Algorithms
 
-### 监督式学习
+### Supervised Learning
 
-[决策树](https://en.wikipedia.org/wiki/Decision_tree)
+[Decision_tree](https://en.wikipedia.org/wiki/Decision_tree)
 
-[朴素贝叶斯分类器](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+[Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
-[最小二乘法](https://en.wikipedia.org/wiki/Ordinary_least_squares)
+[Ordinary_least_squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
 
-[逻辑回归](https://en.wikipedia.org/wiki/Logistic_regression)
+[Logistic_regression](https://en.wikipedia.org/wiki/Logistic_regression)
 
-[支持向量机](https://en.wikipedia.org/wiki/Support_vector_machine)
+[Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
-[集成方法](https://en.wikipedia.org/wiki/Ensemble_learning)
+[Ensemble_learning](https://en.wikipedia.org/wiki/Ensemble_learning)
 
-### 无监督式学习
+### Unsupervised Learning
 
-[聚类算法](https://en.wikipedia.org/wiki/Cluster_analysis)
+[Cluster_analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
 
-### 5个著名的聚类算法：
+### Five Famous clustering algorithms：
 
 [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
 
@@ -178,21 +172,21 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [Agglomerative Hierarchical](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 
-### 其它
+### Others
 
-[主成分分析](https://en.wikipedia.org/wiki/Principal_component_analysis)
+[Principal_component_analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
-[奇异值分解](https://en.wikipedia.org/wiki/Singular-value_decomposition)
+[Singular-value_decomposition](https://en.wikipedia.org/wiki/Singular-value_decomposition)
 
-[独立成分分析](https://en.wikipedia.org/wiki/Independent_component_analysis)
+[Independent_component_analysis](https://en.wikipedia.org/wiki/Independent_component_analysis)
 
-### 更多算法列表
+### More Algorithm Lists
 
 [Machine learning algorithms](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
 
 [a-tour-of-machine-learning-algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-### Scikit-Learn算法文档
+### Scikit-Learn Algorithm for document
 
 [supervised_learning](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
@@ -204,13 +198,13 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
 
-## 实践项目
+## Practice Project
 
-[8个有趣的项目](https://elitedatascience.com/machine-learning-projects-for-beginners)
+[machine-learning-projects-for-beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
-[公共数据](https://github.com/awesomedata/awesome-public-datasets)
+[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-## 更多进阶资源
+## More Advanced Resources
 
 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
@@ -218,12 +212,10 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
-
 ### About me
 
 - #### Email:[chao.qu521@gmail.com]()
 - #### Blog:[https://jsonchao.github.io/](https://jsonchao.github.io/)
-- #### 掘金:[https://juejin.im/user/5a3ba9375188252bca050ade](https://juejin.im/user/5a3ba9375188252bca050ade)
     
 ### License
 
