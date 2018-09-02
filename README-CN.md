@@ -144,7 +144,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [augmented-rnns](http://distill.pub/2016/augmented-rnns/)
 
-[spotify-cnns](phttp://benanne.github.io/2014/08/05/spotify-cnns.html)
+[spotify-cnns](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 
 ## 算法
 
@@ -162,7 +162,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 [集成方法](https://en.wikipedia.org/wiki/Ensemble_learning)
 
-### 无监督式学习
+### 无监督式学习：
 
 [聚类算法](https://en.wikipedia.org/wiki/Cluster_analysis)
 
