@@ -8,7 +8,7 @@ Roadmap to becoming a Machine Learning developer in 2018
 
 ## 入门
 
-[Machine learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+[机器学习如此有趣!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 （[中文版](https://zhuanlan.zhihu.com/p/24339995)）
 
 [数据科学基础](https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308)
